@@ -1,6 +1,7 @@
 # Table of contents
 
-* [A-Z Manual](README.md)
+* [Welcome Interns!](README.md)
+* [A-Z Manual](a-z-manual.md)
 * [Advocate Shifting Protocol](advocate-shifting-protocol.md)
 * [Cancelling/Changing Events Protocol](cancelling-changing-events-protocol.md)
 * [Roles & Responsibilities](roles-and-responsibilities.md)
