@@ -620,13 +620,13 @@ _**V**_
 * To drive an Off-Campus rental \(through UCSB Transportation Services\) drivers must be 21 yo and have a valid driver’s license.
 * When we reserve vans through TPS, we need to specify that our drivers are under 21 yo. 
 
-_**W**_
+## _**W**_
 
 **WORKSHOPS**
 
 \*\*\*add policy
 
-**WORKSHOP/TABLING BACKPACK\(S\)**
+#### **WORKSHOP/TABLING BACKPACK\(S\)**
 
 Backpacks are to be kept on their designated/labeled shelf. Backpacks are to be filled/double checked before **checking out** a backpack. Upon return from an event backpacks are to be **emptied** and **checked back in** to their designated shelf. Check-in/ check-out sheets are located on the inside of the “Tabling and Workshop” cabinet.
 
