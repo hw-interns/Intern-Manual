@@ -4,25 +4,25 @@ description: The main index for information with Quick Answers
 
 # A-Z Manual
 
-### A
+## A
 
-**ABSENT/LATE POLICY**
+### **ABSENT/LATE POLICY**
 
-* Meetings: You are expected Thursday meetings each week. Communication is KEY!
-* Requests to miss standing meetings should be placed 2 weeks in advance
-* Urgent, last minute requests should be texted to ICs and Advisor ASAP
-* Scheduled shifts: In advance, email or text individuals to request coverage
-* Emergencies/day of: text event chair and group me to find a replacement.
+* Meetings: You are expected to attend Thursday meetings each week. Communication is KEY!
+* Requests to miss standing meetings should be placed 2 weeks in advance.
+* Urgent, last minute requests should be messaged on Slack to ICs and Advisor ASAP.
+* Scheduled shifts: In advance, email or text individuals to request coverage.
+* Emergencies/day of: Slack Message Event Lead to find a replacement.
 * Sick policy: If you are sick, do not come to work. Please, please stay home and take care of yourself. Be fever/vomit free for 24 hours before returning to work.
-* If you are scheduled for a shift and are sick, find a replacement via group me. If you cannot find one, then contact ICs or Advisor.
+* If you are scheduled for a shift and are sick, find a replacement via Slack. If you cannot find one, then contact ICs or Advisor.
 
-**ALCOHOL, SOCIALS AND SEXUAL HARRASMENT**
+### **ALCOHOL, SOCIALS AND SEXUAL HARASSMENT**
 
 Health and Wellness Interns are to uphold any and all University policies including, but not limited to, regulations from the Office of Student Life, those from Associated Students, the Alcohol and Other Drugs Policy and the Policy on Sexual Harassment and Complaint Resolution Procedures.
 
-## _**B**_
+## **B**
 
-#### **SHS BUILDING HOURS**
+### **SHS BUILDING HOURS**
 
 MTRF - 8am - 4:30pm  
 W - 9am - 4:30pm  
@@ -30,13 +30,17 @@ R - 4:30pm - 7pm
 
 In order to be in the building any other time, a PRO staff member must be present.  If you have work outside of these hours, consult with your advisor to see if a staff member is available.
 
-**BOX**  
-We use UCSB.BOX.com for marketing and other high density files. Please do not save additional docs to BOX. If you find a doc on BOX that you find helpful, please move it to the J Drive and delete if from BOX. If you do not have access to box, please ask ICs for permissions.
+### **BOX**
 
-_**C**_
+  
+We use UCSB.BOX.com for marketing and other high density files. Please do not save additional docs to BOX. If you find a doc on BOX that you find helpful, please move it to the J Drive and delete if from BOX. If you do not have access to box, please ask ICs for permission.
 
-**CANCELATION/CHANGE TO EVENT**  
-Advisor must approve cancellation of any scheduled event or programming. Once the decision is made, change master calendar spreadsheet, goocal and email ALL STAFF and INTERNS \(especially those shifted\)
+## _**C**_
+
+### **CANCELLATION/CHANGE TO EVENT**
+
+  
+****Advisor must approve cancellation of any scheduled event or programming. Once the decision is made, communicate the cancellation with ALL STAFF and INTERNS, especially scheduled interns. Be sure to edit the Google Calendar with updated information. 
 
 **CANRA**  
 Law that dictated all UC employees as mandated reporters.
