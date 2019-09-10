@@ -20,9 +20,9 @@ description: The main index for information with Quick Answers
 
 Health and Wellness Interns are to uphold any and all University policies including, but not limited to, regulations from the Office of Student Life, those from Associated Students, the Alcohol and Other Drugs Policy and the Policy on Sexual Harassment and Complaint Resolution Procedures.
 
-_**B**_
+## _**B**_
 
-**SHS BUILDING HOURS**
+#### **SHS BUILDING HOURS**
 
 MTRF - 8am - 4:30pm  
 W - 9am - 4:30pm  
