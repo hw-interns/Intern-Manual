@@ -40,130 +40,129 @@ We use UCSB.BOX.com for marketing and other high density files. Please do not sa
 ### **CANCELLATION/CHANGE TO EVENT**
 
   
-****Advisor must approve cancellation of any scheduled event or programming. Once the decision is made, communicate the cancellation with ALL STAFF and INTERNS, especially scheduled interns. Be sure to edit the Google Calendar with updated information. 
+****Advisor must approve cancellation of any scheduled event or programming. Once the decision is made, communicate the cancellation with ALL STAFF and INTERNS, especially scheduled interns. Be sure to edit the Google Calendar with updated information, ad ask your advisors or ICs to edit the Master Planner. 
 
-**CANRA**  
+### **CANRA**
+
+  
 Law that dictated all UC employees as mandated reporters.
 
-**CHAIR/SHIFT LEADER RESPONSIBILITIES**
+### **CHAIR/SHIFT LEADER RESPONSIBILITIES**
 
-**COLOR PRINTER**
+### **COLOR PRINTER**
 
-Please set your default settings to black and white. Color should only be used for approved marketing materials. Color costs way more.
+Please set your default settings to black and white. Color should only be used for approved marketing materials. Color is costly!
 
-**COMMUNICATION**
+### **COMMUNICATION**
 
 We have three ways of communicating:
 
 1. WEEKLY:
-   1. ALL Intern MEETING: This is an important opportunity to give and receive information. Please pay attention and come prepared with info that all interns/staff need to know.
-   2. MONDAY EMAIL: read and reply
+   1. ALL INTERN MEETING: This is an important opportunity to give and receive information. Please pay attention and come prepared with info that all interns/staff need to know.
+   2. MONDAY EMAIL: read and retain the updates given! 
 2. DAILY:
    1. EMAIL: We ask that pro-staff and interns use email for detailed announcements or issues between meetings. Reply to work related emails within 24 hours.
-   2. TEXT as needed for issues that are specific, time sensitive and apply to a small group.
+   2. SLACK: Use SLACK as needed for issues that are specific, time sensitive and apply to a small group.
 3. IMMEDIATE:
-   1. GROUP ME: Use group me for urgent issues that apply to most/all of the group. If you cannot help, like the message to confirm receipt. If you can help, respond so everyone can see that issue has been taken care of.
+   1. SLACK: Use the appropriate SLACK Channels for urgent issues that apply to most/all of the group. If you cannot help, "React" to the message to confirm receipt. If you can help, respond so everyone can see that issue has been addressed and handled.
 
-**COMPUTERS**  
+### **COMPUTERS**
+
+  
 Set up user profile on EACH computer the first time you use it. How to set up user profile is posted in Peer Room.
 
-**CONDOM DISTRIBUTION**  
-Condoms should always be accompanied by instructions.
+### **CONDOM DISTRIBUTION**
 
-_**D**_
+  
+****Condoms should always be accompanied by instructions of use.
 
-**DRESS CODE**  
-Interns are expected to dress appropriately when representing the Department of Health & Wellness. In the office or on a shift staff should dress like a. This includes: awareness activities, workshops, environmental strategies, and while meeting and working in the Intern Work Room and H&W hallways. Business attire is not required, but interns should dress like clean, healthy college student role models. No short shorts or skirts, tight tops, inappropriate holes, undergarments showing, etc. Footwear must be worn at all times. Name tags should be worn on the right side above the pocket.
+## _**D**_
 
-**DONATION FROM OFF-CAMPUS RESOURCES**
+### **DRESS CODE**
 
-Giveaway/prizes can be solicited from off campus locations. If there is any question of a conflict of interest or question of off campus sources health messages, they should _not_ be used. Always get messages approved by advisor.
+  
+****Interns are expected to dress appropriately when representing the Department of Health & Wellness. In the office or on a shift**,** staff should dress accordingly. Business attire is not required, but interns should dress like clean, healthy college student role models. No short shorts or skirts, tight tops, inappropriate holes, undergarments showing, etc. Footwear must be worn at all times. Name tags should be worn on the right side above the chest.
 
-_**E**_
+### **DONATION FROM OFF-CAMPUS RESOURCES**
 
-**ED 191 W**
+Giveaways/prizes can be solicited from off-campus locations. If there is any question of a conflict of interest or question of off-campus sources health messages, they should _not_ be used. Always get messages approved by advisor.
+
+## _**E**_
+
+### **ED 191 W**
 
 See Course Requirements for detailed information.
 
-**ELECTRIC VEHICLE \(AKA ELECTRA\)**
+### **ELECTRIC VEHICLE \(AKA ELECTRA\)**
 
 **\*\*\*\*ADD POLICY**
 
-**EQUIPTMENT CHECK-OUT**
+### **EQUIPMENT CHECK-OUT**
 
 The following equipment can be checked out at the H&W Reception desk by Pro Staff or trained interns:
 
 * Condoms for workshops or tabling
-* Camera equipment including cords to download pics to MAC.
+* Camera equipment, including cords to download pics to MAC.
 * Staple gun
 * Hammer/mallet
 * Helium Checkout-- Helium is available for official internship purposes. Balloons and ribbon are in the bins on the top shelf of the peer room. Check out the helium nozzle from the HAWPs’ Reception desk.
 * Goggle/Glasses Check-out-- If you are tabling or presenting and would like to use the “drunk goggles” that simulate being intoxicated, check them out from the student staff, office manager or your advisor at the H&W Reception desk.
 
-**EVENTS**
+### **EVENTS**
 
 Awareness activities should be prioritized based on their ability to reach maximum numbers of students \(especially target populations\) for minimum time spent. Interns should invite Henry Yang, VCSA to special events.
 
-_**F**_
+## _**F**_
 
-**FRAGRANCE POLICY**
+### **FRAGRANCE POLICY**
 
 Student Health is a medical facility. Due to possible allergy issues, staff and interns are asked NOT to use any perfumes, lotions or deodorants that put off and significant odors.
 
-_**G**_
+## _**G**_
 
-Google Calendar
+### Google Calendar
 
-Gmail
+We utilize Google Calendar to schedule events. Interns are encouraged to actively Google Calendar in order to receive updates on meetings, workshops, trainings, etc.   
 
-GroupMe  
-H&W  
-Leader Office Hours
 
-_**H**_
+## _**H**_
 
-**HIRING POLICIES**
+### **HIRING POLICIES**
 
 H&W values a healthy balance of academic, social, self-care and internship commitments.  In an effort to honor to these values:
 
-* I understand that I am expected to work an average of 15 hours a week \(minimum of 10hrs/wk and maximum of 20hrs/wk\) and that intern schedules vary from week to week based on programming needs.I have/plan to have an additional job on or off campus. Y/N.  Approximate hours per week \_\_\_\_
+* I understand that I am expected to work an average of 15 hours a week \(minimum of 10hrs/wk and maximum of 20hrs/wk\), and that intern schedules vary from week to week based on programming needs. Communicate your shifting/hour needs with your advisor and ICs. Let your advisor know if you plan on working a second job outside of the internship, especially if it is an on-campus job. 
 * I understand that because training and programming runs at similar times across Student Affairs internships, H&W rarely hires interns already hired by another department.
 * I will be able to commit to this position for the full academic year.
 * I understand that International students may not work more than 50% time.
 * I will be able to attend spring training. \(8-10 hours\).
-* I will be able to start work on September 17, 2018.
-* I will be available Thursday nights from 5-8pm for intern meetings starting fall quarter.
+* I will be able to start work on September 16, 2019.
+* I will be available Thursday nights from 5:30-7:30pm \(and 5:30-8:30pm once per quarter for Continuing Education\) for intern meetings starting fall quarter.
 
-_**I**_
+## _**I**_
 
-**INSURANCE ISSUES**
+### **INSURANCE ISSUES**
 
 Certain events may bring about insurance issues, for example: off campus events or having a bounce house at an event. Interns must discuss these issues with an advisor so as to have them cleared by insurance during the early planning of the event.
 
-**IV OUTREACH**
+## _**J**_
 
-SAFETY FIRST. Keep the goals of internship and event in mind, expect many different responses from people on DP, and make sure to be safe. Only trained interns can participate. See IVO training guide for more info.
-
-_**J**_
-
-Place text here.
-
-_**K**_
+## _**K**_
 
 **KRONOS**
 
 See “Timecards”
 
-_**L**_
+## _**L**_
 
-**LYNDA.COM \(ACCESS THRU UCSB HR TRAINING\)**
+### **LYNDA.COM \(ACCESS THROUGH UCSB HR TRAINING\)**
 
-* Lynda.com is an online training library that offers more than 1300 video-based tutorials on leading software topics, taught by industry experts. Lynda.com training is available 24/7 for convenient, fast-paced learning.
+* Lynda.com is an online training library that offers more than 1300 video-based tutorials on leading software topics, all taught by industry experts. Lynda.com training is available 24/7 for convenient, fast-paced learning.
 * You can use lynda.com online training for professional development, and also for personal enrichment outside of work. As long as you have an UCSBNetID and are a UCSB employee, you can log in to lynda.com on or off campus.
 
-_**M**_
+## _**M**_
 
-**MARKETING REQUEST & WORKFLOW**
+### **MARKETING REQUEST & WORKFLOW**
 
 \*\*\*\*ask marketing if this policy is up to date
 
