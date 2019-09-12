@@ -269,7 +269,7 @@ For HP Interns, the following will be scheduled as evenly as possible:
 
 ## _**S**_
 
-**SCHEDULING POLICY**
+### **SCHEDULING POLICY**
 
 Stay organized and on top of scheduling! We recommend using Goo-Cal to help organize your academics, internship\(s\), social life, personal time, etc. ICs are expected to notify interns three weeks in advance regarding an upcoming shift, and interns are expected to be present, active, and engaged at the assigned shift. If a shift needs scheduling with less than three weeks in advance notice, ICs will ask interns if they are available to work that shift. 
 
@@ -287,52 +287,46 @@ These are events in which members of H&W staff or student groups attend that are
 
 ### **TABLING GUIDELINES**
 
-See “Workshop/Tabling Backpack\(s\)” for more information and please refer to the "GIVEAWAYS Handout Protocol" documents on the Google Drive. 
+See “Workshop/Tabling Backpack\(s\)” for more information, and please refer to the "GIVEAWAYS Handout Protocol" documents on the Google Drive. 
 
 ### **TIMECARDS**
 
 Interns must update Kronos daily, at the end of their shift.   
-Interns must "Approve" their Timecards at the end of their last shift every other two weeks. 
+Interns must "Approve" their Timecards at the end of their last shift every other week. 
 
-### **THURSDAY NIGHT MEETING**
+### **THURSDAY NIGHT MEETINGS**
 
-Interns are expected to attend Thursday night meeting from 5:30-7:30pm every week. Once per quarter, the department 
+Interns are expected to attend Thursday night meeting from 5:30-7:30pm every week. Once per quarter, the department holds a "Continuing Education" meeting that extends Thursday night meetings by one hour. They serve as a unique opportunity to delve into Health Topics in order to further our knowledge and understanding of Wellness. These extended meeting dates will be communicated to interns in advance. 
 
-_**U**_
+## _**U**_
 
-Place text here.
+## _**V**_
 
-_**V**_
+### **VAN PROTOCOL**
 
-**VAN PROTOCOL**
+* To drive a University owned vehicle, drivers must be 18 years old or older and have a valid driver’s license.
+* To drive an Off-Campus rental \(through UCSB Transportation Services\) drivers must be 21 years old and have a valid driver’s license.
+* When we reserve vans through UCSB Transportation Services, we need to specify the age of our drivers.
 
-* To drive a University owned vehicle, drivers must be 18yo or older and have a valid driver’s license.
-* To drive an Off-Campus rental \(through UCSB Transportation Services\) drivers must be 21 yo and have a valid driver’s license.
-* When we reserve vans through TPS, we need to specify that our drivers are under 21 yo. 
+## _**W**_
 
-_**W**_
+### **WORKSHOPS**
 
-**WORKSHOPS**
+Workshops must be requested at least THREE WEEKS prior to the preferred workshop date. The department will do it's best to accommodate all workshops. Workshop request will be submitted to ICs via a Qualtrics survey \(available from wellness.ucsb.edu\). Upon submission, ICs will schedule interns to facilitate workshops--health-topic trained interns having first priority to their respective topic. Refer to "Scheduling Policy" for more scheduling procedures for Workshops.
 
-\*\*\*add policy
+### **WORKSHOP/TABLING BACKPACK\(S\)**
 
-**WORKSHOP/TABLING BACKPACK\(S\)**
+Backpacks are to be kept on their designated/labeled shelf. Backpacks are to be filled/double checked before being **checked out**. Upon return from an event, backpacks are to be **emptied** and **checked back in** to their designated shelf. Check-in/check-out sheets are located on the inside of the “Tabling and Workshops” cabinet.
 
-Backpacks are to be kept on their designated/labeled shelf. Backpacks are to be filled/double checked before **checking out** a backpack. Upon return from an event backpacks are to be **emptied** and **checked back in** to their designated shelf. Check-in/ check-out sheets are located on the inside of the “Tabling and Workshop” cabinet.
-
-**WORKING OVER BREAK POLICY**
+### **WORKING OVER BREAK POLICY**
 
 \*\*\*Jo to find policy
 
-_**X**_
+## _**X**_
 
-Place text here.
+## _**Y**_
 
-_**Y**_
-
-Because we like you.
-
-_**Z**_
+## _**Z**_
 
 
 
