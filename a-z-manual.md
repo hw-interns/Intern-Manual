@@ -187,110 +187,116 @@ Ask for feedback - weekly but at the latest Thursday
 Finish marketing materials - weekly  
 Upload marketing materials to “for interns” folder in ucsb.box.com – Monday
 
-**MEETING ROOMS**
+### **MEETING ROOMS**
 
 All meeting rooms should be left clean and neat. **NEVER**, should chairs be stacked in the hallway by classroom 1.  This is a fire exit and must be kept clear.  _No exception, ever._
 
-_**N**_
+## _**N**_
 
-**NAMETAGS**
+### **NAME TAGS**
 
-_**O**_
+Follow all Name Tag care and handling procedures as provided in the Name Tag Form.
 
-**OFFICE EQUIPTMENT**
+## _**O**_
 
-Lorie is the master of the office, her rules are law. Ask for help or training before using equipment for the first time.
+### **OFFICE EQUIPMENT**
 
-**OFFICE HOURS**  
-Intern Office Hours scheduled between 9am-4:30pm. 1st come 1st served on the Google Calendar “Office Hours”
+Lorie is the master of the office; her rules are law. Ask for help or training before using equipment for the first time.
+
+### **OFFICE HOURS**
+
+  
+Intern Office Hours are scheduled between 8am-4:30pm on a first come first served basis. Inform your ICs of your office hours preferences during Intern Training Week. If you will not be present at Office Hours, Slack message your advisor and ICs. If you wish to change your Office Hour times, communicate your preferences with the ICs. Office Hours are listed on the Google Calendar “Office Hours.”
 
 * See “SHS Building Hours” for additional information
 
-_**P**_
+## _**P**_
 
-**PEANUT POLICY**
+### **PEANUT POLICY**
 
 H&W is a no peanut zone. Please do not bring peanut products into the kitchen, offices or other workspaces.
 
-**PEER ROOM/COMPUTER USE POLICY**
+### **PEER ROOM COMPUTER USE POLICY**
 
-The Peer room is for intern storage and general use. All interns must schedule Office Hours on goocal \(Intern Office Hours\) with a designated computer. The computer “Wall-E” is reserved for marketing. Other interns please use either “Jack-Jack” or “Russell” computers.
+The Peer room is for intern storage and general use. The computer “Wall-E” is reserved for marketing. Other interns please use either “Jack-Jack” or “Russell” computers.
 
-**PRINTING POLICY**
+### PEER ROOM STORAGE POLICY
 
-Only Marketing Team or Desk Staff should print _marketing_ materials. Fill out pink request sheet 2 weeks in advance of your event.
+Treat the Peer Room kindly--it is a community space! Please be mindful of where you place your belongings; we want to keep the room tidy. If you decide to go on break, please ask your advisors to store your backpack/personals in their office. You may also ask Jo to store your belongings temporarily in the closet outside of her office. 
+
+### **PRINTING POLICY**
+
+Only Marketing Team or Desk Staff should print _marketing_ materials. Fill out a pink printing request sheet 2 weeks in advance of your event.
 
 * Regular materials should be kept stocked
 
-**PRIZE WINNERS**
+### **PRIZE WINNERS**
 
-* **DO NOT CALL IT A RAFFLE**
-* No prizes over $75
-* Interns will choose winners and print list of the winners/prizes
-* Review list with Lorie to see when desk coverage will be best & system for distribution.
+* **DO NOT CALL IT A RAFFLE.**
+* No prizes over $75.
+* Interns will choose winners and print list of the winners/prizes.
+* Review list with Lorie to see when desk coverage will be best & review system for distribution.
 * Only then should winners be called/emailed with specific instructions.
 
-**POSTER MAKING**
+### **POSTER MAKING**
 
-ALWAYS use plastic sheeting under the poster paper when making posters so ink doesn’t bleed through on to tables. When markers run low, let advisor and Lorie know for reorder.
+ALWAYS use plastic sheeting under the poster paper when making posters so ink doesn’t bleed through and onto tables. When markers run low, let an advisor and Lorie know so we can place a reorder.
 
-**PURCHASING SUPPLIES/REIMBURSMENTS  
-Approval is needed prior to spending money on behalf of the interns**!
+### **PURCHASING SUPPLIES/REIMBURSMENTS**
 
-* Interns work with advisor to come up with wish list, look up items on approved vendor list, submit to advisor for approval
+  
+**Approval is needed prior to interns spending money on behalf of the department!**
+
+* Interns work with an ****advisor to draft a wish list, search items on approved vendor list, and submit to advisor for approval.
 * Advisor sends the list to Lorie for purchase. Allow 3 weeks or more for most items.
-* **Students SHOULD NOT purchase supplies with their own money**. ALL receipts/invoices must be itemized. Accounting requires the receipt that lists the items that were purchased.
+* **Students SHOULD NOT purchase supplies with their own money**. ALL receipts/invoices must be itemized. Accounting requires the receipt that lists the quantity of items that were purchased.
 
-_**Q**_
+## _**Q**_
 
-Place text here.
+## _**R**_
 
-_**R**_
+### **REPORTER PROTOCOL**
 
-**REPORTER PROTOCOL**
+If you are approached by a reporter or someone with recording devices claiming to be a reporter, you are permitted to give them the basic mission of H&W and the basic goals of the event \(if you are comfortable\). Please use “I” statements. If they ask for an interview or anything more in-depth please say: "Thank you for your interest, I’ll have to refer you to my advisor.” **Either way, you must get their name, phone number, and title and report to your advisor IMMEDIATELY.** Never answer questions from your personal opinion while representing the group.
 
-If you are approached by a reporter or someone with recording devices claiming to be a reporter, you are permitted to give them the basic mission of H&W and the basic goals of the event \(if you are comfortable\). Please use “I” statements. If they ask for an interview or anything more in-depth please say, Thank you for your interest, I’ll have to refer you to my advisor.” **Either way, you must get their name, phone number and title and report that to your advisor IMMEDIATELY.** Never answer questions from your personal opinion while representing the group.
-
-**REQUIREMENTS**
+### **REQUIREMENTS**
 
 For HP Interns, the following will be scheduled as evenly as possible:
 
-* _Workshops:_ You must facilitate/shadow at least 1-2 workshop a quarter \(depending on campus needs\)
-* _Tabling:_ You are required to table 5-10 hours per quarter including at least 1 set up and 1 clean up
-* _Weekly Shifts:_ Wellness Centers, WTF, Meditation
-* _IV Outreach:_ You are required to work at least one IV Outreach per quarter **\(ALL INTERNS\)**
+* Workshops
+* Tablings
+* Weekly Shifts _\(_ Rejuvenation Stations, WTF, Meditation\)
 
-_**S**_
-
-**SPOTLIGHT**
-
-Staff & students sign up to bring a “spotlight” or item that is important to them and tells a little more about themselves.
+## _**S**_
 
 **SCHEDULING POLICY**
 
-**SICK POLICY**
+Stay organized and on top of scheduling! We recommend using Goo-Cal to help organize your academics, internship\(s\), social life, personal time, etc. ICs are expected to notify interns three weeks in advance regarding an upcoming shift, and interns are expected to be present, active, and engaged at the assigned shift. If a shift needs scheduling with less than three weeks in advance notice, ICs will ask interns if they are available to work that shift. 
+
+If an intern has committed to a shift, but cannot attend due to external reasons, they should message the "all interns" channel on Slack to seek a replacement. If nobody is available, let your advisor and ICs know as soon as possible.
+
+### **SICK POLICY**
 
 See Absent/Late Policy
 
-**SOCIAL EVENTS**
+### **SOCIAL EVENTS**
 
-\(Events which members of H&W staff or student groups attend that are not official H&W functions.\) University policy must be upheld. It states: “Employees and students are prohibited from the unlawful manufacture, distribution, dispensation, possession or use of…alcohol in the workplace, on University premises, at University activities, or while conducting University business. Employees and students shall not use illegal or abuse legal substances in a manner that impairs job performance, scholarly activities or student life.”
+These are events in which members of H&W staff or student groups attend that are not official H&W functions. University policy must be upheld. It states: “Employees and students are prohibited from the unlawful manufacture, distribution, dispensation, possession or use of…alcohol in the workplace, on University premises, at University activities, or while conducting University business. Employees and students shall not use illegal or abuse legal substances in a manner that impairs job performance, scholarly activities or student life.”
 
-_**T**_
+## _**T**_
 
-**TABLING GUIDELINES**
+### **TABLING GUIDELINES**
 
-See Tabling Guidelines for more information
+See “Workshop/Tabling Backpack\(s\)” for more information and please refer to the "GIVEAWAYS Handout Protocol" documents on the Google Drive. 
 
-See “Workshop/Tabling Backpack\(s\)” for more information
+### **TIMECARDS**
 
-**TIMECARDS**
+Interns must update Kronos daily, at the end of their shift.   
+Interns must "Approve" their Timecards at the end of their last shift every other two weeks. 
 
-No more than 4 hours after 5pm \(check policy\)  
-Input hours as you go  
-Approve timecards every other Saturday
+### **THURSDAY NIGHT MEETING**
 
-**THURSDAY NIGHT MEETING**
+Interns are expected to attend Thursday night meeting from 5:30-7:30pm every week. Once per quarter, the department 
 
 _**U**_
 
