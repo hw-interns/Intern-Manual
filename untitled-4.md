@@ -1,6 +1,6 @@
 # Scheduling & Related Policies & Expectations Contract
 
-This contract is an acknowledgment of the Department of Health and Wellness policies and expectations as an intern. These guidelines will help with smooth and efficient operation of our department. For HP interns, ACs, HAWC Coords, and FNBS interns, 1/3 of hrs \(max\) should be used for prep & meetings. Most of the work should be in implementing programming. Interns should discuss this balance regularly with their advisors. Marketing will be scheduled for tabling occasionally on busy weeks.
+This contract is an acknowledgment of the Department of Health & Wellness policies and expectations as an intern. These guidelines help with the smooth and efficient operation of our department. For HP interns, Advocate Coords, HAWC Coords, and FNBS interns, 1/3 of hrs \(max\) should be used for prep & meetings. Most of the work should be in implementing programming. Interns should discuss this balance regularly with their advisors. Marketing will be scheduled for tabling when needed.  All work must be completed in the H&W office.
 
 **H&W VALUE**
 
@@ -9,36 +9,41 @@ Self-care in important. School is important. UCSB students deserve consistent, q
 **DEAD WEEK, FINALS WEEK & QUARTER BREAKS**
 
 * Interns are not required to work dead week or finals week, however, all projects must be completed before interns leave for break. Hours are available if interns are interested during dead week or finals week.
-* Interns are not budgeted to work over break. Exceptions may be granted on a case by case basis. Preference is for work to be completed in office.
+* Interns are not budgeted to work over break. Exceptions may be granted on a case by case basis. 
 
 **SCHEDULING POLICY**
 
-H&W uses When2Work scheduling software \(new in 2018\). We will develop policies as we learn the software.
+H&W uses When2Work scheduling software.
 
-* All interns must input academic schedules into When2Work quarterly.
+* All interns must input academic schedules into When2Work quarterly and keep updated.
 * Schedule should only be blocked for class and other pre-approved commitments \(see Jo\)
 * Ideally, 1/3 of hrs \(max\) should be used for prep & meetings, 2/3 hrs executing H&W programming
 * Each team needs to balance planning and execution of H&W programming \(each intern needs to have space in their schedules to staff programming\)
 * ICs assign interns to shifts. There are three different scheduling procedures:
 
 1. **Big events** \(all hands on deck\)
-   1. Ideally, HP team member is chair and is available for most of the event. Team members would ideally be shift leaders.
-   2. ICs will fill in the additional spots with available interns from other teams.
-2. **Pop up events** \(workshops, tabling, etc.\)
-   1. ICs assign first based on intern trainings, and then on availability.
-3. **Repeating Shifts** \(WTF, Meditation, ect.\)
-   1. Based on availability, ICs assign an intern for reoccurring shift throughout the quarter.
+   1. Ideally, a HP team member is **chair** and is available for most of the event. Team members would ideally be **shift leaders**.
+   2. ICs will fill in the additional spots with available interns from other teams and advocates.
+2. **Recurring Shifts** \(WTF, Meditation, ect.\)
+
+   1. Ideally, a HP team member is shifted for recurring shifts.
+   2. ICs will fill in the additional spots with available interns from other teams and advocates.
+   3. If you are assigned a recurring shift, you should be prepared to work that shift weeks 2-9 unless otherwise noted.
+
+   **Pop up events** \(workshops, tabling, etc.\)
+
+   1. ICs assign first based on intern training, and then on availability.
 
 **THURSDAY NIGHT MEETING**
 
-Attendance at Thursday meetings is mandatory for all interns each week, throughout the year. Meetings are 5:30-7:30pm \(occasionally until 8:30pm\). Plan school and other scheduled commitments accordingly.
+Attendance at Thursday meetings is mandatory for all interns week  0/1-9, throughout the year. Meetings are 5:30-7:30pm \(occasionally until 8:30pm\). Plan school and other scheduled commitments accordingly.
 
-**5:30-6:30** Team Meetings \(Marketing, Team Jo, Team Emily, Team Jason, Team Jackie, IAs on your own, HAWCs with Team Jason for Fall, Data Management with Team Jason\)
+**5:30-6:30** Team Meetings
 
 * Prep for the next week
-* Plan for the next month, & quarter
+* Plan for the next month & quarter
 * Review stats & update checklists and documents
-* Prepare 3-5 essential bullet points for ALL INTERN Mtg, including what team needs from all interns
+* Prepare 3-5 essential bullet points for ALL INTERN Mtg, including what team needs from **all interns**
 
 **6:30-7:30** ALL INTERN Meeting
 
@@ -53,24 +58,23 @@ Attendance at Thursday meetings is mandatory for all interns each week, througho
 
 Meetings:
 
-* Attendance at Thursday meetings is mandatory for all interns each week, throughout the year. Meetings are 5:30-7:30pm \(occasionally until 8:30pm\). Plan school and other scheduled commitments accordingly.
+* Attendance at Thursday meetings is mandatory for all interns week  0/1-9, throughout the year. Meetings are 5:30-7:30pm \(occasionally until 8:30pm\). Plan school and other scheduled commitments accordingly.
 * Requests to miss any scheduled meetings should be submitted 2 weeks in advance
-* Urgent, unforeseen, last minute requests should be texted to ICs and Advisor ASAP
+* Urgent, unforeseen, last minute requests should be slacked to Advisor and ICs ASAP
 
 Scheduled shifts:
 
-* Interns are expected to work the schedule they are given. H&W understands that interns may have occasional conflicts. In these rare instances, interns should request shift coverage through When2Work, at least 2 weeks in advance. Replacement must have the training and skills to perform the duties of that shift.
+* Interns are expected to work the schedule they are given. H&W understands that interns may have occasional conflicts. In these rare instances, interns should request shift coverage through SLACK channel **\#scheduling** at least 2 weeks in advance. Replacement must have the training and skills to perform the duties of that shift.
 * Emergencies/day of: Last minute changes are usually not possible. Contact your advisor for advice.
 
 Sick policy:
 
-* If you are sick, do not come to work. Please, please stay home and take care of yourself.
+* Please wash hands & practice self-care to avoid illness and spreading germs. If you are sick, do not come to work. Please, please stay home and take care of yourself.
 * Be fever/vomit free for 24 hours before returning to work.
 * If you are scheduled for a shift and are sick:
-
-1. Inform appropriate advisor\(s\) and ICs
-2. If possible, find replacement via W2W.
-3. If you cannot find one, then contact ICs or Advisor.
+* Inform appropriate advisor\(s\) and ICs immediately
+* Then, if possible, find replacement via SLACK
+* If you cannot find an appropriately trained replacement, then contact the **advisor** responsible for that shift and the ICs.
 
 I have read the above values and policies. I acknowledge and accept the expectations of a Department of Health & Wellness intern.
 
