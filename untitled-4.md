@@ -64,8 +64,9 @@ Meetings:
 
 Scheduled shifts:
 
-* Interns are expected to work the schedule they are given. H&W understands that interns may have occasional conflicts. In these rare instances, interns should request shift coverage through SLACK channel **\#scheduling** at least 2 weeks in advance. Replacement must have the training and skills to perform the duties of that shift.
+* Interns are expected to work the schedule they are given. H&W understands that interns may have occasional conflicts. In these rare instances, interns should request shift coverage from ICs BY EMAIL at least 2 weeks in advance. Replacement must have the training and skills to perform the duties of that shift.  If you have a specific, trained intern in mind to replace you, please include their name in the email to ICs.
 * Emergencies/day of: Last minute changes are usually not possible. Contact your advisor for advice.
+* Only IC's and Advisors can approve shift changes.
 
 Sick policy:
 
@@ -78,11 +79,9 @@ Sick policy:
 
 I have read the above values and policies. I acknowledge and accept the expectations of a Department of Health & Wellness intern.
 
-| \(Print name\) | \(Intern Signature\) | \(Date\) |
-| :--- | :--- | :--- |
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\(Print Name\)                                                    \(Intern Signature\)                                                 \(Date\)
 
-
-| \(Advisor/IC Signature |  | \(Date\) |
-| :--- | :--- | :--- |
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\(Advisor/ IC Signature\)                                                                                                                    \(Date\)
 
