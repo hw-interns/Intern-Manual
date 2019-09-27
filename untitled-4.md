@@ -83,5 +83,5 @@ I have read the above values and policies. I acknowledge and accept the expectat
 \(Print Name\)                                                    \(Intern Signature\)                                               \(Date\)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-\(Advisor/ IC Signature\)                                                                                                                  \(Date\)
+\(Advisor/ IC Signature\)                                                                                                                \(Date\)
 
